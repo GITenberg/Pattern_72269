@@ -1,0 +1,25 @@
+_repo: Pattern_72269
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rohrer, Robert H.
+    gutenberg_agent_id: '56628'
+    url: http://www.gutenberg.org/2009/agents/56628
+description: ''
+gutenberg_issued: '2023-11-30'
+identifiers:
+  gutenberg: '72269'
+language: en
+pgterms:marc905: 20231118122230rohrer
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pattern
+url: http://www.gutenberg.org/ebooks/72269
