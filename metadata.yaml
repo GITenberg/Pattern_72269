@@ -1,11 +1,16 @@
 _repo: Pattern_72269
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72269-h/images/cover.jpg
 creator:
   author:
     agent_name: Rohrer, Robert H.
     gutenberg_agent_id: '56628'
     url: http://www.gutenberg.org/2009/agents/56628
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72269#Pattern
 gutenberg_issued: '2023-11-30'
 identifiers:
   gutenberg: '72269'
